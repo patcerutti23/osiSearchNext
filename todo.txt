@@ -1,0 +1,6 @@
+[x] Set up Next JS server
+[x] Set up Prisma Database and connect to app
+[] Create a model and migrate to create the structure of your database
+[] Develop your third party api route and integrate through next js
+[] Develop skeletal structure of webpage
+[] Call the third party api through app
