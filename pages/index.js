@@ -74,7 +74,7 @@ function App2() {
           "Content-Type": "application/json",
         },
 
-        body: JSON.stringify({ terms: "shoulder" }),
+        body: JSON.stringify({ terms: search }),
       });
       const data = await response.json();
       setResult(data[3]);
